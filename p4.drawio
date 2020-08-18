@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-08-18T05:39:46.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.59" version="13.6.2" etag="34qsAmR4g1TO7RltDjiG" type="github"><diagram id="pGx5AdT3UYkQI-FQj58n">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-18T05:59:58.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.59" etag="Fz5q9hZ_gDIyIJ1vanJD" version="13.6.2" type="github">
+  <diagram id="pGx5AdT3UYkQI-FQj58n" name="Page-1">
+    <mxGraphModel dx="1865" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;shadow=1;" edge="1" parent="1" source="hgjF582KHL1LKC2YwlZ6-2" target="hgjF582KHL1LKC2YwlZ6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-2" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="-70" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-3" value="STOPT" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="590" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;shadow=1;" edge="1" parent="1" source="hgjF582KHL1LKC2YwlZ6-5" target="hgjF582KHL1LKC2YwlZ6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-5" value="a,b" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="90" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.997;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="1" source="hgjF582KHL1LKC2YwlZ6-12" target="hgjF582KHL1LKC2YwlZ6-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-12" value="n3 = n1 + n2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;shadow=1;" edge="1" parent="1" source="hgjF582KHL1LKC2YwlZ6-13" target="hgjF582KHL1LKC2YwlZ6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;shadow=1;" edge="1" parent="1" source="hgjF582KHL1LKC2YwlZ6-13" target="hgjF582KHL1LKC2YwlZ6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;( a &amp;gt;= 0 &amp;amp;&amp;amp; a &amp;lt;= 10) &amp;amp;&amp;amp; ( b &amp;gt;= 10 &amp;amp;&amp;amp; b &amp;lt;= 50 )&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="235" width="175" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;shadow=1;" edge="1" parent="1" source="hgjF582KHL1LKC2YwlZ6-15" target="hgjF582KHL1LKC2YwlZ6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-24" value="&lt;div style=&quot;text-align: left ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Comic Sans MS&quot;&gt;1. START&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 24px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Comic Sans MS&quot;&gt;2. INPUT a, b&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 24px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Comic Sans MS&quot;&gt;3. IF ((a &amp;gt;= 0&amp;nbsp; &amp;amp;&amp;amp; b &amp;lt;= 10)&amp;nbsp; &amp;amp;&amp;amp;&amp;nbsp; (b &amp;gt;= 10 &amp;amp;&amp;amp; b &amp;lt; = 50))&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px ; border: none ; padding: 0px ; font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Comic Sans MS&quot;&gt;4. SET c = a&amp;nbsp; + b&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px ; border: none ; padding: 0px ; font-size: 24px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Comic Sans MS&quot;&gt;5. PRINT c&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Comic Sans MS&quot;&gt;6. STOP&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Comic Sans MS&quot;&gt;#PART 2&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Comic Sans MS&quot;&gt;1. START&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Comic Sans MS&quot;&gt;2. INPUT a, b&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Comic Sans MS&quot;&gt;3. SET c = ((b &amp;gt;= 0 &amp;amp;&amp;amp;&amp;nbsp; A &amp;lt;= 10) &amp;amp;&amp;amp; (b &amp;gt;= 10 &amp;amp;&amp;amp; b &amp;lt;= 50)) ? a + b : pass&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot; face=&quot;Comic Sans MS&quot;&gt;4. PRINT c&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-550" width="901" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" edge="1" parent="1" source="hgjF582KHL1LKC2YwlZ6-25" target="hgjF582KHL1LKC2YwlZ6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hgjF582KHL1LKC2YwlZ6-25" value="n3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="140" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
